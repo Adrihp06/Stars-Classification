@@ -1,0 +1,56 @@
+312.15646729455,-0.68520885871 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=312.15646729455&dec=-0.68520885871
+9.21398720458,24.88762346401 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=9.21398720458&dec=24.88762346401
+20.54788659579,26.20077208265 :  raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=20.54788659579&dec=26.20077208265
+115.48915662295,19.21750146838 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=115.48915662295&dec=19.21750146838
+311.08911343993,75.25103792842 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=311.08911343993&dec=75.25103792842
+332.04854865462,5.98767117846 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=332.04854865462&dec=5.98767117846
+331.78586431981,7.17027378164 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=331.78586431981&dec=7.17027378164
+345.51542813919,5.96970095089 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.51542813919&dec=5.96970095089
+108.32549961181,64.84418182098 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=108.32549961181&dec=64.84418182098
+47.98249295387,40.66450340313 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=47.98249295387&dec=40.66450340313
+45.65908545342,37.40599576882 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=45.65908545342&dec=37.40599576882
+194.5580907974,58.75258019104 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=194.5580907974&dec=58.75258019104
+325.82034691547,72.46974059395 : raro 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=325.82034691547&dec=72.46974059395
+327.47055060498,73.49392557204 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=327.47055060498&dec=73.49392557204
+248.83869170714,62.02748532839 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=248.83869170714&dec=62.02748532839
+347.85795584884,22.30295773632 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=347.85795584884&dec=22.30295773632
+168.24156771683,-16.75658969145 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=168.24156771683&dec=-16.75658969145
+100.94975943082,28.61818090337 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=100.94975943082&dec=28.61818090337
+209.3469792701,-8.33436646268 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=209.3469792701&dec=-8.33436646268
+280.71845470533,40.60531976164 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=280.71845470533&dec=40.60531976164
+290.25663653372,37.46040409891 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=290.25663653372&dec=37.46040409891
+1.58509235691,27.06025127468 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=1.58509235691&dec=27.06025127468
+24.74615793793,-8.81799635771 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.74615793793&dec=-8.81799635771
+17.59530891692,-9.23264719356 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=17.59530891692&dec=-9.23264719356
+157.24835764698,8.65413370405 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=157.24835764698&dec=8.65413370405
+205.09182091881,10.01032476817 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=205.09182091881&dec=10.01032476817
+207.55771475297,27.47964387804 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=207.55771475297&dec=27.47964387804
+47.74809097171,-0.61658887469 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=47.74809097171&dec=-0.61658887469

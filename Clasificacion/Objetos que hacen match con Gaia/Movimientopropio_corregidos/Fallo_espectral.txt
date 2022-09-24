@@ -1,0 +1,100 @@
+23.33344028166,-10.15757893092 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=23.33344028166&dec=-10.15757893092
+311.73220797079,-5.39956053696 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=311.73220797079&dec=-5.39956053696
+312.13135837201,-5.4332523004 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=312.13135837201&dec=-5.4332523004
+19.31712381531,26.32610949146 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=19.31712381531&dec=26.32610949146
+36.54146055563,-8.82319601362 : falloespectral ? 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=36.54146055563&dec=-8.82319601362
+47.2560686195,0.90046558493 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=47.2560686195&dec=0.90046558493
+54.65695912774,-5.4364343808 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=54.65695912774&dec=-5.4364343808
+116.86673731982,27.85736550743 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=116.86673731982&dec=27.85736550743
+122.83293503019,-0.60310805889 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=122.83293503019&dec=-0.60310805889
+307.46970618817,75.97921749471 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=307.46970618817&dec=75.97921749471
+254.87187065445,38.97212257396 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=254.87187065445&dec=38.97212257396
+312.57383235644,16.81561575102 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=312.57383235644&dec=16.81561575102
+261.70376852162,32.82122264762 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=261.70376852162&dec=32.82122264762
+90.45002815914,63.62172528218 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=90.45002815914&dec=63.62172528218
+95.04505428048,64.48158833474 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=95.04505428048&dec=64.48158833474
+320.1332100031,-7.20275777891 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=320.1332100031&dec=-7.20275777891
+332.8365585312,5.4154453986 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=332.8365585312&dec=5.4154453986
+344.01276691595,7.0036166643 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.01276691595&dec=7.0036166643
+17.02888408398,-0.32320078969 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=17.02888408398&dec=-0.32320078969
+15.89999474965,-0.22465077216 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=15.89999474965&dec=-0.22465077216
+17.08117440022,0.2716154403 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=17.08117440022&dec=0.2716154403
+129.01893673872,53.80505028467 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=129.01893673872&dec=53.80505028467
+48.10845631678,6.38437578091 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=48.10845631678&dec=6.38437578091
+134.07051976435,36.9716274294 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=134.07051976435&dec=36.9716274294
+145.31185550731,52.83927676661 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=145.31185550731&dec=52.83927676661
+161.49239922744,-0.81541814943 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=161.49239922744&dec=-0.81541814943
+164.83491976388,49.15562170074 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=164.83491976388&dec=49.15562170074
+46.30557860297,36.92428709512 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=46.30557860297&dec=36.92428709512
+205.65404479262,65.69069235354 : falloespectral ? 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=205.65404479262&dec=65.69069235354
+238.68160431167,26.72606210055 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=238.68160431167&dec=26.72606210055
+98.77957339081,84.39179857842 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=98.77957339081&dec=84.39179857842
+99.25717699702,83.46994211936 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=99.25717699702&dec=83.46994211936
+132.15181907131,82.78942508376 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=132.15181907131&dec=82.78942508376
+289.46613198039,62.32472734867 : falloespectral , presentar
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=289.46613198039&dec=62.32472734867
+292.03142239,63.47872766016 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=292.03142239&dec=63.47872766016
+303.64091428013,60.77182649269 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=303.64091428013&dec=60.77182649269
+313.40075439021,56.26371030707 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=313.40075439021&dec=56.26371030707
+185.10186816969,-0.27222298533 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=185.10186816969&dec=-0.27222298533
+347.96328776851,22.62237038162 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=347.96328776851&dec=22.62237038162
+348.45312675574,22.9704865724 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=348.45312675574&dec=22.9704865724
+348.83781574884,22.35332792242 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=348.83781574884&dec=22.35332792242
+113.89863858189,41.20465243914 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=113.89863858189&dec=41.20465243914
+112.09451881048,15.23885810418 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=112.09451881048&dec=15.23885810418
+118.69823716378,18.65867302467 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=118.69823716378&dec=18.65867302467
+290.16908893202,37.34940088421 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=290.16908893202&dec=37.34940088421
+283.15373462799,18.6222288293 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=283.15373462799&dec=18.6222288293
+283.15377392821,18.62183357281 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=283.15377392821&dec=18.62183357281
+150.4875845483,-1.24113242328 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=150.4875845483&dec=-1.24113242328
+156.62387864068,7.83866460907 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=156.62387864068&dec=7.83866460907
+172.07501409289,-7.90582062604 : falloespectral
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=172.07501409289&dec=-7.90582062604

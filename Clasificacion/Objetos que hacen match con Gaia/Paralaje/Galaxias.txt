@@ -1,0 +1,4 @@
+(512)132.27254556993,11.24608779525 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=132.27254556993&dec=11.24608779525
+(540)255.20939069827,27.86375315037 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=255.20939069827&dec=27.86375315037

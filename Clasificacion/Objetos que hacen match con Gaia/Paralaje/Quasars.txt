@@ -1,0 +1,2 @@
+(148)38.07367587398,-7.52220174569 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=38.07367587398&dec=-7.52220174569

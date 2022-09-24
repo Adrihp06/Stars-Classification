@@ -1,0 +1,30 @@
+10.01079168329,25.36271203167 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=10.01079168329&dec=25.36271203167
+59.79099829211,-5.43427952484 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=59.79099829211&dec=-5.43427952484
+141.44780300978,6.92749020254 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=141.44780300978&dec=6.92749020254
+152.91098969689,34.22440257586 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=152.91098969689&dec=34.22440257586
+161.51754623981,-1.1123145715 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=161.51754623981&dec=-1.1123145715
+218.26359222025,56.85117264461 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=218.26359222025&dec=56.85117264461
+90.8203685729,84.14230584907 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=90.8203685729&dec=84.14230584907
+90.81978593446,84.14225802119 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=90.81978593446&dec=84.14225802119
+100.9972245279,27.70946811048 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=100.9972245279&dec=27.70946811048
+98.51544699065,26.28844732561 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=98.51544699065&dec=26.28844732561
+99.60796383817,37.60354856119 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=99.60796383817&dec=37.60354856119 
+119.71947905853,18.55433737037 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=119.71947905853&dec=18.55433737037
+66.03234708903,6.47904009261 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=66.03234708903&dec=6.47904009261
+121.47080265529,-6.83960585823 :  raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=121.47080265529&dec=-6.83960585823
+180.96328275289,1.17339631003 : raro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=180.96328275289&dec=1.17339631003

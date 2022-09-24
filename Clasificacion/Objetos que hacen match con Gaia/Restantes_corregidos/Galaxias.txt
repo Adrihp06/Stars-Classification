@@ -1,0 +1,58 @@
+318.00351762481,-0.28025561046 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=318.00351762481&dec=-0.28025561046
+30.15248439465,0.7636899118 : galaxia ? 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=30.15248439465&dec=0.7636899118
+115.01413073944,17.76375587112 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=115.01413073944&dec=17.76375587112
+242.71318884082,17.05879629806 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=242.71318884082&dec=17.05879629806
+132.79707931485,5.07194140263 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=132.79707931485&dec=5.07194140263
+146.7685547833,61.37920905967 : galaxia?
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=146.7685547833&dec=61.37920905967
+153.32254747751,34.46276304294 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=153.32254747751&dec=34.46276304294
+193.59887191977,58.89460160315 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=193.59887191977&dec=58.89460160315
+232.56623781585,48.97178356935 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=232.56623781585&dec=48.97178356935
+190.65876348971,29.07478593253 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=190.65876348971&dec=29.07478593253
+248.85691524536,61.97600994595 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=248.85691524536&dec=61.97600994595
+290.73474505825,61.46232301411 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=290.73474505825&dec=61.46232301411
+290.73539187693,61.46240341648 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=290.73539187693&dec=61.46240341648
+125.91464102416,38.39446836788 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=125.91464102416&dec=38.39446836788
+65.08290523814,5.66357404538 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=65.08290523814&dec=5.66357404538
+257.01278331103,27.53225174237 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=257.01278331103&dec=27.53225174237
+255.18781793999,27.82744815666 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=255.18781793999&dec=27.82744815666
+255.39047353668,27.57893888821 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=255.39047353668&dec=27.57893888821
+255.54130103114,27.50908994949  : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=255.54130103114&dec=27.50908994949
+255.40317347881,29.72022586772 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=255.40317347881&dec=29.72022586772
+255.62850972427,28.85349699533 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=255.62850972427&dec=28.85349699533
+157.03108715919,17.94036568836 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=157.03108715919&dec=17.94036568836
+156.57915578733,8.30084376132 : galaxia ?
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=156.57915578733&dec=8.30084376132
+190.55062340466,50.00870627365 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=190.55062340466&dec=50.00870627365
+191.42253622065,50.04245946935 : galaxia ? 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=191.42253622065&dec=50.04245946935
+212.24762415097,37.38269981641 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=212.24762415097&dec=37.38269981641
+230.12269446801,40.01847289608 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=230.12269446801&dec=40.01847289608
+230.12186408686,40.01877541441 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=230.12186408686&dec=40.01877541441
+230.12283908393,40.0190382601 : galaxia
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=230.12283908393&dec=40.0190382601

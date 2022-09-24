@@ -1,0 +1,96 @@
+354.40374534583,48.20882073088 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=354.40374534583&dec=48.20882073088
+311.48660151514,-0.88850933414 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=311.48660151514&dec=-0.88850933414
+311.79555130358,-5.09722910812 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=311.79555130358&dec=-5.09722910812
+318.1604902316,-0.77988442522 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=318.1604902316&dec=-0.77988442522
+318.10378731925,-0.21783502068 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=318.10378731925&dec=-0.21783502068
+318.00390827356,-0.28042019473 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=318.00390827356&dec=-0.28042019473
+18.7076024972,27.01155457346 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=18.7076024972&dec=27.01155457346
+116.48723361447,28.34017605387 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=116.48723361447&dec=28.34017605387
+120.62504149663,7.48318817241 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=120.62504149663&dec=7.48318817241
+313.65951372751,75.68677628613 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=313.65951372751&dec=75.68677628613
+261.33094599101,27.96611791014 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=261.33094599101&dec=27.96611791014
+267.12986663436,25.66543483766 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=267.12986663436&dec=25.66543483766
+270.76108843787,23.3450027051 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=270.76108843787&dec=23.3450027051
+306.49257331252,14.90065773974 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=306.49257331252&dec=14.90065773974
+308.47009659018,15.63546629431 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=308.47009659018&dec=15.63546629431
+311.6721693192,16.01462187416 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=311.6721693192&dec=16.01462187416
+84.2605470971,62.10763626518 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=84.2605470971&dec=62.10763626518
+302.98000925438,-11.21490675231 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=302.98000925438&dec=-11.21490675231
+303.0824088318,-11.36353009008 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=303.0824088318&dec=-11.36353009008
+302.31694748485,-10.49990263224 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=302.31694748485&dec=-10.49990263224
+344.17305786935,6.69691335364 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.17305786935&dec=6.69691335364
+43.11307488317,35.71425658614 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=43.11307488317&dec=35.71425658614
+140.38101231599,30.34410974371 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=140.38101231599&dec=30.34410974371
+146.5182811277,62.11941326563 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=146.5182811277&dec=62.11941326563
+48.54495694629,40.49086512389 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=48.54495694629&dec=40.49086512389
+200.02138871472,65.77449138954 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=200.02138871472&dec=65.77449138954
+279.02685070275,20.97010524673 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=279.02685070275&dec=20.97010524673
+277.52404041829,21.26490841656 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.52404041829&dec=21.26490841656
+277.31853997576,21.49272892256 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.31853997576&dec=21.49272892256
+278.20158362981,21.58841224635 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=278.20158362981&dec=21.58841224635
+331.70465970451,69.41209990417 : noespectro , lente ? 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=331.70465970451&dec=69.41209990417
+334.52723031847,69.62047830187 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=334.52723031847&dec=69.62047830187
+287.39316791742,38.17822367923 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=287.39316791742&dec=38.17822367923
+190.67753133204,-9.08029255952 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=190.67753133204&dec=-9.08029255952
+284.68410593946,18.66248460473 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=284.68410593946&dec=18.66248460473
+261.46653864896,8.79473089049 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=261.46653864896&dec=8.79473089049
+288.93310405019,37.42454586735 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=288.93310405019&dec=37.42454586735
+121.85462117018,-7.57158899604 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=121.85462117018&dec=-7.57158899604
+283.98243313055,18.02193173286 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=283.98243313055&dec=18.02193173286
+283.61706074774,18.74304726478 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=283.61706074774&dec=18.74304726478
+283.61663644446,18.74279044216 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=283.61663644446&dec=18.74279044216
+282.57788439079,19.69165066497 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=282.57788439079&dec=19.69165066497
+173.13996474894,-7.64522579997 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=173.13996474894&dec=-7.64522579997
+205.78156790993,28.38294358502 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=205.78156790993&dec=28.38294358502
+211.86763351221,36.70087432757 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=211.86763351221&dec=36.70087432757
+217.10222142924,45.95802148289 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=217.10222142924&dec=45.95802148289
+221.86019347433,-1.14569805235 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=221.86019347433&dec=-1.14569805235
+117.97873943661,8.98613484116 : noespectro
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=117.97873943661&dec=8.98613484116

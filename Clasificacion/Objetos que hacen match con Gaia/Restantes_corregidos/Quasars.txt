@@ -1,0 +1,774 @@
+41.3919584372,1.13714964559 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=41.3919584372&dec=1.13714964559
+41.75495185821,0.05839581994 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=41.75495185821&dec=0.05839581994
+42.67689655519,0.59353395701 : qso bal ? 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=42.67689655519&dec=0.59353395701
+285.46193979063,79.23916357384 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=285.46193979063&dec=79.23916357384
+359.41797992617,37.10981399316 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=359.41797992617&dec=37.10981399316
+359.20314151196,36.67963412461 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=359.20314151196&dec=36.67963412461
+355.86409677852,39.99670941004 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=355.86409677852&dec=39.99670941004
+355.21931059384,43.20104163666 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=355.21931059384&dec=43.20104163666
+318.93120158563,11.25288644748 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=318.93120158563&dec=11.25288644748
+341.6276221338,13.18017169761 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=341.6276221338&dec=13.18017169761
+341.25856857229,13.70535971539 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=341.25856857229&dec=13.70535971539
+354.91845210911,14.85314755584 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=354.91845210911&dec=14.85314755584
+10.66938420928,14.25824596494 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=10.66938420928&dec=14.25824596494
+10.79442686956,15.85255915388 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=10.79442686956&dec=15.85255915388
+27.31673832474,14.63792348178 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=27.31673832474&dec=14.63792348178
+27.72760943286,13.4099558295 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=27.72760943286&dec=13.4099558295
+26.65852878145,13.64259872933 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=26.65852878145&dec=13.64259872933
+340.6690514882,-0.72895533409 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=340.6690514882&dec=-0.72895533409
+340.47660204951,0.01726693468 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=340.47660204951&dec=0.01726693468
+355.42294938833,-0.63519868035 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=355.42294938833&dec=-0.63519868035
+354.87503849585,0.50480369656 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=354.87503849585&dec=0.50480369656
+355.81622354963,0.78321379733 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=355.81622354963&dec=0.78321379733
+355.49608330413,0.57253177064 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=355.49608330413&dec=0.57253177064
+356.59883561481,0.71695134868 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=356.59883561481&dec=0.71695134868
+12.21840454487,-0.4085704222 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=12.21840454487&dec=-0.4085704222
+11.6997016416,-0.10484691418 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=11.6997016416&dec=-0.10484691418
+9.8716662541,0.60986224876 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=9.8716662541&dec=0.60986224876
+11.86142091162,0.92985172713 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=11.86142091162&dec=0.92985172713
+25.15197710025,0.05997552411 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.15197710025&dec=0.05997552411
+26.93342867116,-1.10154025022 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=26.93342867116&dec=-1.10154025022
+25.75759718742,-0.4488350038 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.75759718742&dec=-0.4488350038
+25.3460102843,-0.40613078088 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.3460102843&dec=-0.40613078088
+25.76313079045,0.17769416996 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.76313079045&dec=0.17769416996
+311.60877588019,0.39380141157 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=311.60877588019&dec=0.39380141157
+311.4873362852,-0.88869858168 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=311.4873362852&dec=-0.88869858168
+345.25471689767,-9.84581665275 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.25471689767&dec=-9.84581665275
+343.75213936496,-8.46954278982  : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=343.75213936496&dec=-8.46954278982
+4.54642590361,-10.14863320717 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=4.54642590361&dec=-10.14863320717
+5.0703126383,-9.54573623921 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=5.0703126383&dec=-9.54573623921
+24.10688938111,-10.56283877231 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.10688938111&dec=-10.56283877231
+24.75327877724,-8.78906571087 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.75327877724&dec=-8.78906571087
+310.46120673021,-6.92045652963 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=310.46120673021&dec=-6.92045652963
+316.00828404443,0.38036587993 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=316.00828404443&dec=0.38036587993
+316.35205412073,0.06868549344 : qso ? 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=316.35205412073&dec=0.06868549344
+317.17587043796,0.59004872814 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=317.17587043796&dec=0.59004872814
+316.45743492646,0.85192006855 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=316.45743492646&dec=0.85192006855
+316.83151174128,0.63670255135 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=316.83151174128&dec=0.63670255135
+323.87662965444,-0.6847047548 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=323.87662965444&dec=-0.6847047548
+322.37810735386,0.22973834466 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=322.37810735386&dec=0.22973834466
+46.20774722557,-0.13709288856 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=46.20774722557&dec=-0.13709288856
+10.69160831151,24.01154481491 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=10.69160831151&dec=24.01154481491
+10.77226447498,24.43858187571 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=10.77226447498&dec=24.43858187571
+10.37420394781,24.28392031675 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=10.37420394781&dec=24.28392031675
+9.93385028626,24.28320344087 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=9.93385028626&dec=24.28320344087
+9.50120030384,24.13362821904 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=9.50120030384&dec=24.13362821904
+10.20347572447,25.02900954659 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=10.20347572447&dec=25.02900954659
+20.23820951031,24.70171585991 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=20.23820951031&dec=24.70171585991
+18.05811293905,25.28205583127 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=18.05811293905&dec=25.28205583127
+18.14164003413,26.40480916398 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=18.14164003413&dec=26.40480916398
+20.56024164717,39.11728237095 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=20.56024164717&dec=39.11728237095
+21.05863400794,39.28457714871 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=21.05863400794&dec=39.28457714871
+22.45939172861,39.58806589926 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=22.45939172861&dec=39.58806589926
+24.92747613805,22.43294595616 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.92747613805&dec=22.43294595616
+24.62401211302,22.7663495262 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.62401211302&dec=22.7663495262
+30.02629320858,-0.61939567364 : qso bal ?
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=30.02629320858&dec=-0.61939567364
+32.66694934188,22.98746683855 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=32.66694934188&dec=22.98746683855
+37.81072705577,-9.09834267124 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=37.81072705577&dec=-9.09834267124
+36.39255166297,-8.56363235543 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=36.39255166297&dec=-8.56363235543
+36.47414100563,-7.55151352311 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=36.47414100563&dec=-7.55151352311
+38.1170501191,-8.05387670161 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=38.1170501191&dec=-8.05387670161
+38.59782395245,-7.99428471325 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=38.59782395245&dec=-7.99428471325
+38.45975475504,-8.43312235684 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=38.45975475504&dec=-8.43312235684
+38.49619876857,-8.27553497502 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=38.49619876857&dec=-8.27553497502
+47.80347359472,-0.28025722275 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=47.80347359472&dec=-0.28025722275
+45.89899652752,0.69580848467 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=45.89899652752&dec=0.69580848467
+52.5961743484,-0.40726655647 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=52.5961743484&dec=-0.40726655647
+53.09114498609,0.01357946204 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=53.09114498609&dec=0.01357946204
+55.93990492758,-6.47288912995 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=55.93990492758&dec=-6.47288912995
+54.99153159483,-6.87244466066 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=54.99153159483&dec=-6.87244466066
+54.94349081093,-5.36799642238 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=54.94349081093&dec=-5.36799642238
+58.26254392241,-5.33000628379 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=58.26254392241&dec=-5.33000628379
+58.13257676667,-5.72927369812 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=58.13257676667&dec=-5.72927369812
+58.47893134012,-5.31222159773 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=58.47893134012&dec=-5.31222159773
+111.18606462536,35.06657662248 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=111.18606462536&dec=35.06657662248
+111.00164810954,35.83055452065 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=111.00164810954&dec=35.83055452065
+113.09960678909,36.01236546306 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=113.09960678909&dec=36.01236546306
+113.65281869004,36.48833266407 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=113.65281869004&dec=36.48833266407
+114.76602431438,18.17932689349 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=114.76602431438&dec=18.17932689349
+115.80778767891,28.74508679246 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=115.80778767891&dec=28.74508679246
+116.48751136607,28.33982106821 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=116.48751136607&dec=28.33982106821
+117.56899723143,28.36968316012 : qso 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=117.56899723143&dec=28.36968316012
+117.84565563048,28.46945360129 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=117.84565563048&dec=28.46945360129
+119.93927247682,6.29209177605 : qso bal ?
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=119.93927247682&dec=6.29209177605
+121.44888396514,7.39050232055 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=121.44888396514&dec=7.39050232055
+122.56249121512,7.15078153343 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=122.56249121512&dec=7.15078153343
+123.3114013933,0.52036367243 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=123.3114013933&dec=0.52036367243
+251.21677684562,35.34846467268 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=251.21677684562&dec=35.34846467268
+249.67718775497,36.03717854697 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.67718775497&dec=36.03717854697
+250.87909665569,36.84389816731 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=250.87909665569&dec=36.84389816731
+242.48407805087,5.44756618894 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=242.48407805087&dec=5.44756618894
+241.72682630429,6.35112194197 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=241.72682630429&dec=6.35112194197
+241.07412379512,52.10402940315 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=241.07412379512&dec=52.10402940315
+241.77964472535,51.40010162645 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=241.77964472535&dec=51.40010162645
+240.42140742729,52.40809310404 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=240.42140742729&dec=52.40809310404
+241.48914576493,53.31114346632 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=241.48914576493&dec=53.31114346632
+242.06335321976,52.87995956879 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=242.06335321976&dec=52.87995956879
+243.70436800339,16.21285339146 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=243.70436800339&dec=16.21285339146
+244.18410881976,17.74363583164 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=244.18410881976&dec=17.74363583164
+243.67076309205,3.72945990559 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=243.67076309205&dec=3.72945990559
+241.33481458652,4.55683306511 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=241.33481458652&dec=4.55683306511
+242.57664142974,4.44210890805 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=242.57664142974&dec=4.44210890805
+252.72409905021,25.13205958419 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=252.72409905021&dec=25.13205958419
+255.65032338473,38.49012910866 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=255.65032338473&dec=38.49012910866
+255.58386375218,39.32803747513 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=255.58386375218&dec=39.32803747513
+256.43976533973,40.06077159981 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=256.43976533973&dec=40.06077159981
+261.33156277168,27.96609587557 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=261.33156277168&dec=27.96609587557
+261.81283390547,27.94884824461 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=261.81283390547&dec=27.94884824461
+266.05558880294,24.38827322544 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=266.05558880294&dec=24.38827322544
+265.0659772422,25.915875043 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=265.0659772422&dec=25.915875043
+259.90631286712,42.14898981126 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.90631286712&dec=42.14898981126
+257.81235345968,41.28082703258 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=257.81235345968&dec=41.28082703258
+306.76595553924,14.38555619179 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=306.76595553924&dec=14.38555619179
+332.92059386973,21.37752874165 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=332.92059386973&dec=21.37752874165
+331.65678922963,21.34331793155 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=331.65678922963&dec=21.34331793155
+331.17729170945,20.97923929582 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=331.17729170945&dec=20.97923929582
+340.33281893755,21.87520920414 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=340.33281893755&dec=21.87520920414
+339.86538362045,23.00500966638 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=339.86538362045&dec=23.00500966638
+340.05564597314,22.2372626029 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=340.05564597314&dec=22.2372626029
+262.83175214078,32.47706830096 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=262.83175214078&dec=32.47706830096
+262.71135951388,31.97084522631 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=262.71135951388&dec=31.97084522631
+263.64795828154,33.22733988126 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=263.64795828154&dec=33.22733988126
+263.90825033275,34.41033750094 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=263.90825033275&dec=34.41033750094
+92.61519161629,62.93136888095 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=92.61519161629&dec=62.93136888095
+80.97549355197,62.60515987062 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=80.97549355197&dec=62.60515987062
+32.39589248492,7.78724533837 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=32.39589248492&dec=7.78724533837
+356.79770938537,-10.62846153354 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=356.79770938537&dec=-10.62846153354
+140.47256287822,21.43117393521 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=140.47256287822&dec=21.43117393521
+139.54388668821,21.99099026982 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=139.54388668821&dec=21.99099026982
+139.00711301871,21.65895826138 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=139.00711301871&dec=21.65895826138
+138.90701591003,22.02627116506 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=138.90701591003&dec=22.02627116506
+321.07284490571,-8.11905524685 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=321.07284490571&dec=-8.11905524685
+45.71696802506,5.93087837953 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=45.71696802506&dec=5.93087837953
+331.9165317894,5.29968870422 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=331.9165317894&dec=5.29968870422
+332.94297153119,6.71448936105 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=332.94297153119&dec=6.71448936105
+344.63642513455,6.31625568491 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.63642513455&dec=6.31625568491
+344.69331386747,8.17515976426 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.69331386747&dec=8.17515976426
+8.29111585787,6.37035042238 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=8.29111585787&dec=6.37035042238
+7.96141160607,6.48363500364 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=7.96141160607&dec=6.48363500364
+8.34823134998,8.4211140023 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=8.34823134998&dec=8.4211140023
+10.19899301717,7.55287051009 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=10.19899301717&dec=7.55287051009
+10.35069963497,7.78173134376 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=10.35069963497&dec=7.78173134376
+16.91305600675,0.05999385394 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=16.91305600675&dec=0.05999385394
+17.01599747518,0.11317801023 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=17.01599747518&dec=0.11317801023
+20.77325492499,6.51310547515 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=20.77325492499&dec=6.51310547515
+20.68812856372,8.14595246693 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=20.68812856372&dec=8.14595246693
+21.66886592235,7.937683968 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=21.66886592235&dec=7.937683968
+128.23769278619,23.6814002918 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=128.23769278619&dec=23.6814002918
+131.40974648918,54.66204775381 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=131.40974648918&dec=54.66204775381
+133.52553784872,5.15718662005 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=133.52553784872&dec=5.15718662005
+132.92326166083,5.74205832996 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=132.92326166083&dec=5.74205832996
+131.42815143947,6.67502289015 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=131.42815143947&dec=6.67502289015
+132.74337132888,6.77433401978 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=132.74337132888&dec=6.77433401978
+50.82372580103,5.45101814138 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=50.82372580103&dec=5.45101814138
+47.01497254306,5.72635818138 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=47.01497254306&dec=5.72635818138
+48.1902655583,6.21160943373 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=48.1902655583&dec=6.21160943373
+164.13147668669,47.32390774397 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=164.13147668669&dec=47.32390774397
+43.11270017277,35.71354793677 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=43.11270017277&dec=35.71354793677
+38.92108782477,25.85163925069 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=38.92108782477&dec=25.85163925069
+134.38915478278,37.01267676816 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=134.38915478278&dec=37.01267676816
+134.07795804515,37.0324365776 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=134.07795804515&dec=37.0324365776
+133.7885812547,36.6931491553 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=133.7885812547&dec=36.6931491553
+133.76838580696,37.66331791314 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=133.76838580696&dec=37.66331791314
+134.78862028001,38.38441543297 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=134.78862028001&dec=38.38441543297
+135.68153035077,37.81919197007 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=135.68153035077&dec=37.81919197007
+135.99998337168,37.17182388353 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=135.99998337168&dec=37.17182388353
+140.11839520199,29.79920753324 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=140.11839520199&dec=29.79920753324
+142.9628033869,7.16568708056 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=142.9628033869&dec=7.16568708056
+141.83828452353,7.77753822349 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=141.83828452353&dec=7.77753822349
+147.63757464933,61.10398658117 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=147.63757464933&dec=61.10398658117
+146.1061542812,61.15955786136 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=146.1061542812&dec=61.15955786136
+145.32134438325,61.83958191544 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=145.32134438325&dec=61.83958191544
+145.16340480353,61.33943986056 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=145.16340480353&dec=61.33943986056
+145.92580524897,62.73264635959 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=145.92580524897&dec=62.73264635959
+146.99756399349,63.46753914401 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=146.99756399349&dec=63.46753914401
+145.47044308968,62.28487304222 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=145.47044308968&dec=62.28487304222
+144.98132974742,52.12156431318 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=144.98132974742&dec=52.12156431318
+145.69271428108,52.33409117255 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=145.69271428108&dec=52.33409117255
+142.60125015695,52.882312261 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=142.60125015695&dec=52.882312261
+144.43949131849,54.06779071374 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=144.43949131849&dec=54.06779071374
+152.22255083449,24.6753070241 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=152.22255083449&dec=24.6753070241
+151.49250795085,25.97873073026 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=151.49250795085&dec=25.97873073026
+152.32348246742,25.98847564215 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=152.32348246742&dec=25.98847564215
+151.56009280737,34.14909540796 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=151.56009280737&dec=34.14909540796
+153.35249913222,36.09266613089 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=153.35249913222&dec=36.09266613089
+161.73002920974,-0.75846311729 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=161.73002920974&dec=-0.75846311729
+160.67797314014,-0.13920597756 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=160.67797314014&dec=-0.13920597756
+163.56300578607,46.90027254299 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=163.56300578607&dec=46.90027254299
+162.17789733978,47.92134720045 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=162.17789733978&dec=47.92134720045
+165.07277517739,48.37596147477 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=165.07277517739&dec=48.37596147477
+168.14749538452,10.81518041606 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=168.14749538452&dec=10.81518041606
+168.46890403604,10.67831109548 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=168.46890403604&dec=10.67831109548
+168.872177506,9.79725236713 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=168.872177506&dec=9.79725236713
+166.86311728826,58.70755228149 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=166.86311728826&dec=58.70755228149
+166.71011734308,58.93097658317 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=166.71011734308&dec=58.93097658317
+169.56199405336,59.91979027215 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=169.56199405336&dec=59.91979027215
+45.7881882247,38.64923501424 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=45.7881882247&dec=38.64923501424
+232.64682875134,50.43834016256 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=232.64682875134&dec=50.43834016256
+199.33330984786,66.9144677126 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=199.33330984786&dec=66.9144677126
+202.85307529462,66.97015929088 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=202.85307529462&dec=66.97015929088
+204.45582805629,67.42079786188 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=204.45582805629&dec=67.42079786188
+190.74374845874,59.5283996955 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=190.74374845874&dec=59.5283996955
+191.13701339169,58.91780999437 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=191.13701339169&dec=58.91780999437
+190.34132986991,60.14423351658 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=190.34132986991&dec=60.14423351658
+215.19023573224,56.32143610181 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=215.19023573224&dec=56.32143610181
+213.62114369635,56.88445692012 : qso 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=213.62114369635&dec=56.88445692012
+216.07350545579,56.73653748117 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=216.07350545579&dec=56.73653748117
+216.83291816969,56.84192385967 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=216.83291816969&dec=56.84192385967
+231.40685453306,49.65634367083 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=231.40685453306&dec=49.65634367083
+231.59410229707,48.51412989482 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=231.59410229707&dec=48.51412989482
+231.30307150193,50.53364663827 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=231.30307150193&dec=50.53364663827
+182.07054204204,39.55490064855 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=182.07054204204&dec=39.55490064855
+180.84463790036,40.55282358248 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=180.84463790036&dec=40.55282358248
+183.57983487661,40.89353897515 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=183.57983487661&dec=40.89353897515
+191.2011697833,30.05070556364 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=191.2011697833&dec=30.05070556364
+237.86822652714,25.72150426498 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=237.86822652714&dec=25.72150426498
+98.77144240996,82.76512274602 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=98.77144240996&dec=82.76512274602
+95.05367624262,83.53525831581 : qso 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=95.05367624262&dec=83.53525831581
+118.59338053805,83.28324568503 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=118.59338053805&dec=83.28324568503
+249.36072741922,62.06634167477 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.36072741922&dec=62.06634167477
+245.65367029326,61.81418105658 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=245.65367029326&dec=61.81418105658
+263.85679394769,64.86588054571 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=263.85679394769&dec=64.86588054571
+264.82026639716,65.42306865353 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=264.82026639716&dec=65.42306865353
+265.64701858879,64.68896221968 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=265.64701858879&dec=64.68896221968
+291.41630818815,62.63289106961 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=291.41630818815&dec=62.63289106961
+293.83314625181,62.8755231439 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=293.83314625181&dec=62.8755231439
+294.00692613276,63.43110362966 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=294.00692613276&dec=63.43110362966
+160.04359995341,43.46991666214 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=160.04359995341&dec=43.46991666214
+160.18630063711,43.73009569789 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=160.18630063711&dec=43.73009569789
+158.51525908003,43.73507775264 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=158.51525908003&dec=43.73507775264
+158.96335611841,43.8904497101 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=158.96335611841&dec=43.8904497101
+157.50155887838,44.00297956124 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=157.50155887838&dec=44.00297956124
+159.02878008476,44.44228249931 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=159.02878008476&dec=44.44228249931
+186.87658096417,-1.07946484399 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=186.87658096417&dec=-1.07946484399
+184.80754027153,0.68090073872 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=184.80754027153&dec=0.68090073872
+184.88858204641,0.54070603739 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=184.88858204641&dec=0.54070603739
+184.85087138701,0.44485833162 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=184.85087138701&dec=0.44485833162
+346.30735849525,22.28906539488 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=346.30735849525&dec=22.28906539488
+347.99276397253,22.28552076865 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=347.99276397253&dec=22.28552076865
+1.50761831869,-5.47916929514 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=1.50761831869&dec=-5.47916929514
+0.56945224739,-5.50211298531 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=0.56945224739&dec=-5.50211298531
+71.11989855447,12.35325584899 : qso ? 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=71.11989855447&dec=12.35325584899
+122.95132427128,37.9458903011 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=122.95132427128&dec=37.9458903011
+132.22691870195,10.58624378566 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=132.22691870195&dec=10.58624378566
+131.87688320729,10.55755378878 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=131.87688320729&dec=10.55755378878
+131.74905199226,11.31934672211 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=131.74905199226&dec=11.31934672211
+133.40254272359,11.23643921628 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=133.40254272359&dec=11.23643921628
+124.2634611854,38.96686004888 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=124.2634611854&dec=38.96686004888
+124.83466747754,38.8241997485 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=124.83466747754&dec=38.8241997485
+126.0835216373,38.23941868301 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=126.0835216373&dec=38.23941868301
+112.7374135941,41.5160411933 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=112.7374135941&dec=41.5160411933
+167.7554251365,-15.08847775636 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=167.7554251365&dec=-15.08847775636
+101.47195008643,28.26521863352 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=101.47195008643&dec=28.26521863352
+102.26221255277,28.78625629527 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=102.26221255277&dec=28.78625629527
+103.55243218276,28.50200604264 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=103.55243218276&dec=28.50200604264
+111.00014298367,32.0407296126 : qso 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=111.00014298367&dec=32.0407296126
+97.46431417364,26.52242429726 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=97.46431417364&dec=26.52242429726
+57.24854751299,10.37758697529 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=57.24854751299&dec=10.37758697529
+191.72006532062,-8.22024440031 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=191.72006532062&dec=-8.22024440031
+191.73964125378,-8.21689974698 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=191.73964125378&dec=-8.21689974698
+191.48934876653,-9.08293103538 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=191.48934876653&dec=-9.08293103538
+191.58425577117,-8.28461417099 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=191.58425577117&dec=-8.28461417099
+190.98249177526,-7.1490391675 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=190.98249177526&dec=-7.1490391675
+168.0845025639,-16.9246021435 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=168.0845025639&dec=-16.9246021435
+167.82977475304,-16.19497840061 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=167.82977475304&dec=-16.19497840061
+106.84632861845,11.94230163082 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=106.84632861845&dec=11.94230163082
+63.58710828921,6.15396851037 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=63.58710828921&dec=6.15396851037
+252.1879360304,13.6064477545 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=252.1879360304&dec=13.6064477545 
+0.58604170159,25.0611293488 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=0.58604170159&dec=25.0611293488
+1.50921184635,25.87540668396 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=1.50921184635&dec=25.87540668396
+18.83835628297,15.41482777735 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=18.83835628297&dec=15.41482777735
+63.61556709707,6.82324109359 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=63.61556709707&dec=6.82324109359
+65.29386470035,7.61552358492 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=65.29386470035&dec=7.61552358492
+65.88338106745,7.58855712103 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=65.88338106745&dec=7.58855712103
+127.3489758711,-5.26986316734 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=127.3489758711&dec=-5.26986316734
+255.43465561602,28.70951479675 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=255.43465561602&dec=28.70951479675
+255.668725072,28.50599616301 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=255.668725072&dec=28.50599616301
+257.15411751238,28.87867256647 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=257.15411751238&dec=28.87867256647
+8.29725781165,-17.17820047439 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=8.29725781165&dec=-17.17820047439
+167.5694668565,37.91701041007 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=167.5694668565&dec=37.91701041007
+18.8667861533,-10.53175262149 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=18.8667861533&dec=-10.53175262149
+18.30045779163,-10.23922163178 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=18.30045779163&dec=-10.23922163178
+17.33735138178,-10.02419420148 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=17.33735138178&dec=-10.02419420148
+18.93994855413,-9.24927355457 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=18.93994855413&dec=-9.24927355457
+18.93779700048,-8.79246789477 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=18.93779700048&dec=-8.79246789477
+26.37355756085,-8.69261476355 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=26.37355756085&dec=-8.69261476355
+29.63550390896,-0.71062391468 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=29.63550390896&dec=-0.71062391468
+29.32888923698,0.84124444861 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=29.32888923698&dec=0.84124444861
+150.69650843554,0.86986503677 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=150.69650843554&dec=0.86986503677
+157.03227225171,17.49911783707 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=157.03227225171&dec=17.49911783707
+157.11254813848,17.56302574644 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=157.11254813848&dec=17.56302574644
+155.13461830297,18.1803938158 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=155.13461830297&dec=18.1803938158
+156.06475737706,18.15457877712 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=156.06475737706&dec=18.15457877712
+156.97516287422,18.3726896105 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=156.97516287422&dec=18.3726896105
+157.09019591445,18.43789005346 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=157.09019591445&dec=18.43789005346
+155.7247668078,8.02177389242 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=155.7247668078&dec=8.02177389242
+155.3537312742,8.9850020743 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=155.3537312742&dec=8.9850020743
+155.95591068318,9.75275041101 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=155.95591068318&dec=9.75275041101
+164.84080550598,28.24451012165 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=164.84080550598&dec=28.24451012165
+165.99611473209,28.65960293946 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=165.99611473209&dec=28.65960293946
+166.26780016806,29.06336564532 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=166.26780016806&dec=29.06336564532
+166.90976419977,38.47458873726 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=166.90976419977&dec=38.47458873726
+165.77077138779,38.20157990664 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=165.77077138779&dec=38.20157990664
+166.85854305654,38.86615868729 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=166.85854305654&dec=38.86615868729
+167.91927057456,39.03730599332 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=167.91927057456&dec=39.03730599332
+168.32481187446,19.23185317254 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=168.32481187446&dec=19.23185317254
+168.9063149724,20.31902123168 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=168.9063149724&dec=20.31902123168
+169.45719723385,20.04134366583 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=169.45719723385&dec=20.04134366583
+173.67173877771,67.29761186062 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=173.67173877771&dec=67.29761186062
+168.70291211916,-12.47989788907 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=168.70291211916&dec=-12.47989788907
+170.86892320033,-7.34106795302 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=170.86892320033&dec=-7.34106795302
+173.12249720524,-6.49789342649 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=173.12249720524&dec=-6.49789342649
+173.83497688666,-0.18154799151 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=173.83497688666&dec=-0.18154799151
+173.62378659339,-1.19825080557 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=173.62378659339&dec=-1.19825080557
+173.21106903544,-0.39464165807 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=173.21106903544&dec=-0.39464165807
+173.20064865533,0.47850754802 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=173.20064865533&dec=0.47850754802
+181.54039000121,0.75627767601 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=181.54039000121&dec=0.75627767601
+182.62054492864,20.92902217254 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=182.62054492864&dec=20.92902217254
+195.90507599082,19.82411338763 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=195.90507599082&dec=19.82411338763
+207.04903952925,28.30051167854 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=207.04903952925&dec=28.30051167854
+207.69206450708,29.13120233324 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=207.69206450708&dec=29.13120233324
+221.31195326301,-0.39948973046 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=221.31195326301&dec=-0.39948973046
+133.16297042506,2.04029676872 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=133.16297042506&dec=2.04029676872
+133.87636729249,3.31153811907 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=133.87636729249&dec=3.31153811907
+134.27816480242,4.13915594287 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=134.27816480242&dec=4.13915594287
+144.35826113269,29.64654928124 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=144.35826113269&dec=29.64654928124
+143.03991914567,29.36628337833 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=143.03991914567&dec=29.36628337833
+143.40104933726,30.70768350399 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=143.40104933726&dec=30.70768350399
+117.55066793249,23.30670423709 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=117.55066793249&dec=23.30670423709
+182.25803860062,19.61054297173 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=182.25803860062&dec=19.61054297173 
+180.51362233642,20.5939796063 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=180.51362233642&dec=20.5939796063
+181.09692006122,20.56917210078 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=181.09692006122&dec=20.56917210078
+181.7224943163,49.48870870713 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=181.7224943163&dec=49.48870870713
+180.1347294091,49.33110960664 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=180.1347294091&dec=49.33110960664
+181.30448084673,50.99032665972 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=181.30448084673&dec=50.99032665972
+182.406772844,49.97338357522 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=182.406772844&dec=49.97338357522
+189.62485307366,-0.22441477303 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=189.62485307366&dec=-0.22441477303
+188.66337014185,0.01224691637 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=188.66337014185&dec=0.01224691637
+190.60742050069,-2.72587248683 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=190.60742050069&dec=-2.72587248683
+190.05519186872,-2.77485559267 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=190.05519186872&dec=-2.77485559267
+191.85206554271,-2.07977460469 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=191.85206554271&dec=-2.07977460469
+193.63624972033,49.52231708753 : qso 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=193.63624972033&dec=49.52231708753
+191.97827071376,49.46618322846 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=191.97827071376&dec=49.46618322846
+191.9479845087,48.90479075347 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=191.9479845087&dec=48.90479075347
+191.2210104134,48.87495267713 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=191.2210104134&dec=48.87495267713
+193.30009172367,50.11672764297 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=193.30009172367&dec=50.11672764297
+193.82860040984,50.89241765601 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=193.82860040984&dec=50.89241765601
+195.3666992705,18.91446109021 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=195.3666992705&dec=18.91446109021
+194.28428290248,19.31590566015 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=194.28428290248&dec=19.31590566015
+194.11091479937,19.57462267469 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=194.11091479937&dec=19.57462267469
+193.21650388546,20.40141572033 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=193.21650388546&dec=20.40141572033
+198.58284452281,40.3852120525 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=198.58284452281&dec=40.3852120525
+205.14242060642,9.79505255243 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=205.14242060642&dec=9.79505255243
+206.41019921376,28.82661740563 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=206.41019921376&dec=28.82661740563
+207.11107054897,29.10640350125 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=207.11107054897&dec=29.10640350125
+206.2095360179,18.12237360989 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=206.2095360179&dec=18.12237360989
+206.2119511718,19.31207390073 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=206.2119511718&dec=19.31207390073
+208.25609777749,19.12906092005 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=208.25609777749&dec=19.12906092005
+212.18307736813,36.10775764866 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=212.18307736813&dec=36.10775764866
+212.24674956322,37.38318637095 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=212.24674956322&dec=37.38318637095
+216.43685599811,45.87010021785 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=216.43685599811&dec=45.87010021785
+217.5202500238,45.63990803745 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=217.5202500238&dec=45.63990803745
+217.89156719097,46.02565477801 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=217.89156719097&dec=46.02565477801
+220.92436632565,0.42284667127 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=220.92436632565&dec=0.42284667127
+226.36583166978,33.18986170017 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=226.36583166978&dec=33.18986170017
+232.61137952453,39.17976819121 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=232.61137952453&dec=39.17976819121
+70.92719329198,-4.60650018932 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=70.92719329198&dec=-4.60650018932
+72.75483068343,-5.42580946449 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=72.75483068343&dec=-5.42580946449
+115.49852865416,65.67325145411 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=115.49852865416&dec=65.67325145411
+119.81718586407,9.4619577603 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=119.81718586407&dec=9.4619577603
+117.97884041581,8.98557860446 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=117.97884041581&dec=8.98557860446
+117.84835603768,8.71356719214 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=117.84835603768&dec=8.71356719214
+118.48678408819,9.92391101033 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=118.48678408819&dec=9.92391101033
+112.23855253741,37.35020654874 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=112.23855253741&dec=37.35020654874
+193.59767894374,9.16624019907 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=193.59767894374&dec=9.16624019907
+192.06590638166,10.3583206141 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=192.06590638166&dec=10.3583206141
+192.75795559755,10.85474888999 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=192.75795559755&dec=10.85474888999
+193.18664412547,10.94331668275 : qso
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=193.18664412547&dec=10.94331668275

@@ -1,0 +1,1054 @@
+(4)41.70505548463,0.56210155908 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=41.70505548463&dec=0.56210155908
+(7)292.83793230553,77.33860126337 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=292.83793230553&dec=77.33860126337
+(8)291.50787966094,78.00946225391 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=291.50787966094&dec=78.00946225391
+(12)354.05209905618,48.4986984943 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=354.05209905618&dec=48.4986984943
+(13)353.02917587922,48.16522332134 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=353.02917587922&dec=48.16522332134
+(14)340.4788194826,-0.2508251211 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=340.4788194826&dec=-0.2508251211
+(18)10.96019636519,-1.0161243778 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=10.96019636519&dec=-1.0161243778
+(21)345.83550074873,-10.09482296607 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.83550074873&dec=-10.09482296607
+(22)345.77041407065,-10.40150131389 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.77041407065&dec=-10.40150131389
+(23)345.99930000118,-9.68440780274  : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.99930000118&dec=-9.68440780274
+(24)345.93086758051,-9.84507542406 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.93086758051&dec=-9.84507542406
+(25)345.96513955997,-9.57763917642 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.96513955997&dec=-9.57763917642
+(28)345.55244362988,-10.03684852313 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.55244362988&dec=-10.03684852313
+(29)345.54681511081,-9.83703343617 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.54681511081&dec=-9.83703343617
+(30)345.26738839525,-9.74148135263 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.26738839525&dec=-9.74148135263
+(31)345.3799758568,-9.58090095561 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.3799758568&dec=-9.58090095561
+(32)345.46973643707,-9.61853517678 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.46973643707&dec=-9.61853517678
+(33)344.44999166183,-10.51788336627 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.44999166183&dec=-10.51788336627
+(34)344.49602390774,-10.45463979663 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.49602390774&dec=-10.45463979663
+(35)344.71112418507,-10.49011490018 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.71112418507&dec=-10.49011490018
+(36)344.47031213066,-10.18434740094 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.47031213066&dec=-10.18434740094
+(37)345.15950635741,-9.94766310665 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.15950635741&dec=-9.94766310665
+(38)345.10421653127,-9.80910417494 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.10421653127&dec=-9.80910417494
+(39)344.7540332456,-9.45651589934 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.7540332456&dec=-9.45651589934
+(40)344.52237121259,-9.59481282025 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.52237121259&dec=-9.59481282025
+(41)344.383209424,-9.89113756847 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.383209424&dec=-9.89113756847
+(42)344.48297489055,-9.74178257422 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.48297489055&dec=-9.74178257422
+(43)344.25411649081,-10.10124752292 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.25411649081&dec=-10.10124752292
+(44)344.0281391771,-9.78564092064 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.0281391771&dec=-9.78564092064
+(45)344.0125909542,-10.11056327612 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.0125909542&dec=-10.11056327612
+(46)343.93069329249,-10.53661652941 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=343.93069329249&dec=-10.53661652941
+(47)343.64215740573,-10.23265739113 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=343.64215740573&dec=-10.23265739113
+(48)343.51427845279,-9.79663057398 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=343.51427845279&dec=-9.79663057398
+(49)343.35557968145,-9.64167218609 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=343.35557968145&dec=-9.64167218609
+(50)343.71484955111,-8.67512579381 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=343.71484955111&dec=-8.67512579381
+(51)343.45208123675,-8.69636798523 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=343.45208123675&dec=-8.69636798523
+(52)343.63361741459,-8.62837747613 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=343.63361741459&dec=-8.62837747613
+(53)343.41385096258,-9.20551085629 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=343.41385096258&dec=-9.20551085629
+(54)343.43794440023,-9.29927175613 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=343.43794440023&dec=-9.29927175613
+(55)344.05272650829,-8.18127807898 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.05272650829&dec=-8.18127807898
+(56)344.28439740154,-8.17868836431 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.28439740154&dec=-8.17868836431
+(57)343.79995877068,-8.89929037968 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=343.79995877068&dec=-8.89929037968
+(58)343.6178971586,-9.25991068847 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=343.6178971586&dec=-9.25991068847
+(59)343.62874022184,-8.89507251798 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=343.62874022184&dec=-8.89507251798
+(60)344.32108023236,-8.21271792654 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.32108023236&dec=-8.21271792654
+(61)344.52423893124,-8.37208940161 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.52423893124&dec=-8.37208940161
+(62)344.3097624572,-8.49486519403 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.3097624572&dec=-8.49486519403
+(63)344.41500544132,-8.52747433234 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.41500544132&dec=-8.52747433234
+(64)344.35781493276,-8.57033849261 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.35781493276&dec=-8.57033849261
+(65)344.39611699546,-8.34699159438 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.39611699546&dec=-8.34699159438
+(66)343.81379053066,-9.23236611749 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=343.81379053066&dec=-9.23236611749
+(67)344.76087910117,-8.62290214081 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.76087910117&dec=-8.62290214081
+(68)344.60791198818,-8.4105651715 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.60791198818&dec=-8.4105651715
+(69)344.88802135669,-8.58462887523 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.88802135669&dec=-8.58462887523
+(70)344.54439232193,-9.09043101699 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.54439232193&dec=-9.09043101699
+(71)344.12925759736,-8.92053925046 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.12925759736&dec=-8.92053925046
+(72)344.63235017562,-9.11299034099 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.63235017562&dec=-9.11299034099
+(73)344.63058972932,-9.07262055398 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.63058972932&dec=-9.07262055398
+(74)344.88949657419,-8.48838690293 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.88949657419&dec=-8.48838690293
+(75)345.48386252882,-9.38329444253 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.48386252882&dec=-9.38329444253
+(76)345.51346454258,-8.46518079796 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.51346454258&dec=-8.46518079796
+(77)345.78370466956,-8.73256853769 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.78370466956&dec=-8.73256853769
+(78)345.93953577892,-8.82516147622 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=345.93953577892&dec=-8.82516147622
+(79)343.98185758477,-9.7253345016 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=343.98185758477&dec=-9.7253345016
+(80)5.45108698438,-10.48125761163 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=5.45108698438&dec=-10.48125761163
+(81)25.05611609223,-10.63020163083 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.05611609223&dec=-10.63020163083
+(82)25.23441445279,-10.2654827034 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.23441445279&dec=-10.2654827034
+(83)24.88911096172,-10.34850190105 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.88911096172&dec=-10.34850190105
+(84)24.61520393008,-10.42218975698 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.61520393008&dec=-10.42218975698
+(85)24.97274556098,-10.07764640101 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.97274556098&dec=-10.07764640101
+(86)24.75420394557,-10.17915996799 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.75420394557&dec=-10.17915996799
+(87)24.95790924968,-10.19884064585 : star 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.95790924968&dec=-10.19884064585
+(88)25.20868557491,-9.7809711527 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.20868557491&dec=-9.7809711527
+(89)25.20870479067,-9.47877289948 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.20870479067&dec=-9.47877289948
+(90)24.48181673751,-10.57545799389 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.48181673751&dec=-10.57545799389
+(91)24.90886379235,-9.87052022216 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.90886379235&dec=-9.87052022216
+(92)24.91420840984,-9.82766845107 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.91420840984&dec=-9.82766845107
+(93)24.1990626615,-10.19248420439 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.1990626615&dec=-10.19248420439
+(94)24.24449130041,-10.53090831014 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.24449130041&dec=-10.53090831014
+(95)24.23909916109,-10.60056324082 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.23909916109&dec=-10.60056324082
+(96)24.86795540216,-9.89454657504 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.86795540216&dec=-9.89454657504
+(97)24.68335679904,-9.54028262946 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.68335679904&dec=-9.54028262946
+(98)24.68153989088,-9.79993672552 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.68153989088&dec=-9.79993672552
+(99)24.44866479854,-9.87864619205 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.44866479854&dec=-9.87864619205
+(102)24.23203796951,-9.91249869344 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.23203796951&dec=-9.91249869344
+(103)23.85905871156,-9.80584555419 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=23.85905871156&dec=-9.80584555419
+(104)23.84261888836,-10.59491896372 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=23.84261888836&dec=-10.59491896372
+(105)23.88603107927,-10.70854159984 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=23.88603107927&dec=-10.70854159984
+(106)23.61795696281,-10.71963235415 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=23.61795696281&dec=-10.71963235415
+(107)23.67396308967,-9.96716258381 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=23.67396308967&dec=-9.96716258381
+(108)23.63406969664,-9.53899552556 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=23.63406969664&dec=-9.53899552556
+(109)23.47116087285,-10.461801997 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=23.47116087285&dec=-10.461801997
+(110)23.61337425441,-10.66684274831 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=23.61337425441&dec=-10.66684274831
+(111)23.25784217664,-9.76303228553 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=23.25784217664&dec=-9.76303228553
+(112)23.33301212668,-10.15755722007 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=23.33301212668&dec=-10.15755722007
+(113)23.12628495463,-10.32971105683 : star, presentar
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=23.12628495463&dec=-10.32971105683
+(114)22.81989799812,-9.60973427891 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=22.81989799812&dec=-9.60973427891
+(115)23.1195106804,-8.60927920691 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=23.1195106804&dec=-8.60927920691
+(116)22.98506525336,-9.19497984279 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=22.98506525336&dec=-9.19497984279
+(117)23.09706872766,-9.10192278257 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=23.09706872766&dec=-9.10192278257
+(118)23.56132270172,-8.44493556813 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=23.56132270172&dec=-8.44493556813
+(119)23.27442451587,-9.31330753664 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=23.27442451587&dec=-9.31330753664
+(120)23.40688699698,-9.3330844971 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=23.40688699698&dec=-9.3330844971
+(121)24.20739984774,-8.50363918322 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.20739984774&dec=-8.50363918322
+(122)24.02741377242,-8.9705172866 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.02741377242&dec=-8.9705172866
+(123)24.70220079051,-8.18038234662 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.70220079051&dec=-8.18038234662
+(124)24.66825329725,-8.53920270931 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.66825329725&dec=-8.53920270931
+(125)24.81348138459,-8.86445339389 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.81348138459&dec=-8.86445339389
+(126)24.77746890636,-8.42219110316 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.77746890636&dec=-8.42219110316
+(127)25.32851608825,-8.58163531094 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.32851608825&dec=-8.58163531094
+(128)25.06325214902,-8.36210435748 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.06325214902&dec=-8.36210435748
+(129)25.52847103166,-8.96486705778 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.52847103166&dec=-8.96486705778
+(130)25.51632209822,-9.07298139028 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.51632209822&dec=-9.07298139028
+(135)22.11968919973,38.66318655342 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=22.11968919973&dec=38.66318655342
+(136)20.61524984136,39.42475696235 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=20.61524984136&dec=39.42475696235
+(137)31.21140282982,-0.7366067128 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=31.21140282982&dec=-0.7366067128
+(140)82.81362083352,-0.86527087531 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=82.81362083352&dec=-0.86527087531
+(141)113.23823661736,36.62306084743 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=113.23823661736&dec=36.62306084743
+(142)116.74020978317,29.00851347512 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=116.74020978317&dec=29.00851347512
+(143)124.02876228281,-0.21821867277 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=124.02876228281&dec=-0.21821867277
+(144)19.23250781635,24.50788888827 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=19.23250781635&dec=24.50788888827
+(145)18.94259637441,25.10551934459 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=18.94259637441&dec=25.10551934459
+(147)18.71156174285,26.13087274019 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=18.71156174285&dec=26.13087274019
+(149)54.9661573564,-6.46246242233 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=54.9661573564&dec=-6.46246242233
+(150)54.85210061319,-7.25207209881 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=54.85210061319&dec=-7.25207209881
+(151)54.50156376503,-6.36165155267 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=54.50156376503&dec=-6.36165155267
+(152)55.19042982415,-5.40106252845 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=55.19042982415&dec=-5.40106252845
+(153)54.61933912446,-5.84818445775 : star 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=54.61933912446&dec=-5.84818445775
+(159)261.30791479539,27.72515176211 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=261.30791479539&dec=27.72515176211
+(160)267.90448559212,25.15337644417 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=267.90448559212&dec=25.15337644417
+(161)243.61746561059,51.08396372151 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=243.61746561059&dec=51.08396372151
+(162)240.73440910023,52.5119420047 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=240.73440910023&dec=52.5119420047
+(163)242.4294454126,3.44434113554 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=242.4294454126&dec=3.44434113554
+(164)253.30449213805,23.55330831734 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=253.30449213805&dec=23.55330831734
+(165)252.91467808775,23.347693217 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=252.91467808775&dec=23.347693217
+(166)252.71517615297,25.27452483182 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=252.71517615297&dec=25.27452483182
+(167)255.97780079641,39.21073977148 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=255.97780079641&dec=39.21073977148
+(170)266.08450305439,25.42411768935 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=266.08450305439&dec=25.42411768935
+(173)259.38272079191,41.94593930594 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.38272079191&dec=41.94593930594
+(174)259.30608190862,41.78058004912 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.30608190862&dec=41.78058004912
+(176)309.28512339517,15.31923810154 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=309.28512339517&dec=15.31923810154
+(177)312.57404410445,16.81554605505 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=312.57404410445&dec=16.81554605505
+(181)262.83120475952,33.54384364621 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=262.83120475952&dec=33.54384364621
+(182)262.88873807793,33.13450346638 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=262.88873807793&dec=33.13450346638
+(185)81.74215237124,61.03573177564 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=81.74215237124&dec=61.03573177564
+(186)90.76138148958,65.13554531675 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=90.76138148958&dec=65.13554531675
+(189)33.4992940618,6.5450293951 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=33.4992940618&dec=6.5450293951
+(190)332.18409807231,-8.98262885805 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=332.18409807231&dec=-8.98262885805
+(191)17.3739143833,-0.57679920473 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=17.3739143833&dec=-0.57679920473
+(192)129.59505983119,53.08185298788 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=129.59505983119&dec=53.08185298788
+(193)129.60449004153,53.60706992084 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=129.60449004153&dec=53.60706992084
+(196)8.09845690302,8.39158529541 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=8.09845690302&dec=8.39158529541
+(201)51.05486568444,4.66715984118 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=51.05486568444&dec=4.66715984118
+(202)48.07047264302,4.85952688444 : star 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=48.07047264302&dec=4.85952688444
+(203)104.59834511471,65.81318687232 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=104.59834511471&dec=65.81318687232
+(204)146.17131153838,61.30194081293 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=146.17131153838&dec=61.30194081293
+(205)145.89083506775,61.71535319445 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=145.89083506775&dec=61.71535319445
+(206)153.03429499499,35.03634968056 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=153.03429499499&dec=35.03634968056
+(207)163.15370577304,-0.80463969396 : star 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=163.15370577304&dec=-0.80463969396
+(208)139.22120299495,29.26850018299 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=139.22120299495&dec=29.26850018299
+(209)144.32981703041,52.46731387543 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=144.32981703041&dec=52.46731387543
+(210)162.53732165621,1.02835573043 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=162.53732165621&dec=1.02835573043
+(214)39.59675681834,27.24777680873 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=39.59675681834&dec=27.24777680873
+(221)203.97684449359,65.42399311465 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=203.97684449359&dec=65.42399311465
+(222)203.13290363381,65.94429430816 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=203.13290363381&dec=65.94429430816
+(223)193.88777499847,59.15779200179 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=193.88777499847&dec=59.15779200179
+(224)232.99171079893,49.07115356935 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=232.99171079893&dec=49.07115356935
+(225)238.32255871998,25.60581423979 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=238.32255871998&dec=25.60581423979
+(226)237.45089940249,26.20551118838 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=237.45089940249&dec=26.20551118838
+(227)237.28316388943,26.36231736681 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=237.28316388943&dec=26.36231736681
+(228)237.24178067225,27.21838454098 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=237.24178067225&dec=27.21838454098
+(229)237.9154676399,27.15964971443 : star 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=237.9154676399&dec=27.15964971443
+(230)238.11901480595,27.09596037299 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=238.11901480595&dec=27.09596037299
+(231)238.27579371833,27.06142261645 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=238.27579371833&dec=27.06142261645
+(232)238.27485094255,27.12336371724 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=238.27485094255&dec=27.12336371724
+(233)238.48010059038,27.50769681114 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=238.48010059038&dec=27.50769681114
+(234)238.4364539599,27.72822306904 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=238.4364539599&dec=27.72822306904
+(235)238.80421881072,26.76148953427 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=238.80421881072&dec=26.76148953427
+(236)238.84236880261,26.88165463191 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=238.84236880261&dec=26.88165463191
+(238)239.50140480561,26.74202946445 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=239.50140480561&dec=26.74202946445
+(239)238.69952895402,27.57404945698 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=238.69952895402&dec=27.57404945698
+(240)239.36418441132,27.2953823518 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=239.36418441132&dec=27.2953823518
+(242)207.14213537851,28.21097359321 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=207.14213537851&dec=28.21097359321
+(243)206.13168882268,27.29693565818 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=206.13168882268&dec=27.29693565818
+(244)206.05585277972,27.84919820023 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=206.05585277972&dec=27.84919820023
+(245)205.67291395922,27.37202991818 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=205.67291395922&dec=27.37202991818
+(246)204.56765171787,28.15995666223 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=204.56765171787&dec=28.15995666223
+(247)204.1728531543,27.77417385672 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=204.1728531543&dec=27.77417385672
+(248)203.9635560793,28.70726565298 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=203.9635560793&dec=28.70726565298
+(249)204.12260233022,29.01792265148 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=204.12260233022&dec=29.01792265148
+(250)206.11414234846,29.29262490771 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=206.11414234846&dec=29.29262490771
+(251)198.83084012624,15.98346009316 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=198.83084012624&dec=15.98346009316
+(252)198.03343044127,18.08484102891 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=198.03343044127&dec=18.08484102891
+(253)278.55954593846,20.39318408903 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=278.55954593846&dec=20.39318408903
+(254)278.97268063567,20.7015709186 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=278.97268063567&dec=20.7015709186
+(255)279.01148369737,20.67370876483 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=279.01148369737&dec=20.67370876483
+(256)278.92738181814,21.13174228227 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=278.92738181814&dec=21.13174228227
+(257)279.0273876367,20.97073764058 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=279.0273876367&dec=20.97073764058
+(258)278.04384615719,20.92650851628 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=278.04384615719&dec=20.92650851628
+(259)278.03366093548,21.25426423246 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=278.03366093548&dec=21.25426423246
+(260)277.83810364552,20.34955317838 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.83810364552&dec=20.34955317838
+(261)277.85248514538,20.11378648451 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.85248514538&dec=20.11378648451
+(262)277.83294162761,20.57678699492 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.83294162761&dec=20.57678699492
+(263)277.96827669252,20.93240310702 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.96827669252&dec=20.93240310702
+(264)277.80970279413,21.17650362256 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.80970279413&dec=21.17650362256
+(265)277.83326523242,21.13865580857 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.83326523242&dec=21.13865580857
+(266)277.96185378992,21.47283495197 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.96185378992&dec=21.47283495197
+(267)277.61327798912,20.50392934601 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.61327798912&dec=20.50392934601
+(268)277.47772730952,20.47884323885 : star 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.47772730952&dec=20.47884323885
+(269)277.58470501729,20.62052614154 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.58470501729&dec=20.62052614154
+(270)277.5507233094,20.65985974802 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.5507233094&dec=20.65985974802
+(271)277.56714787436,20.5344005041 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.56714787436&dec=20.5344005041
+(272)277.52410199082,21.26430194302 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.52410199082&dec=21.26430194302
+(273)277.66822551135,21.14744537013 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.66822551135&dec=21.14744537013
+(274)277.49431871921,21.32798635899 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.49431871921&dec=21.32798635899
+(275)277.49441235245,21.3443403198 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.49441235245&dec=21.3443403198
+(276)277.31885409703,21.49324019583 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.31885409703&dec=21.49324019583
+(277)277.18022152476,20.46110977535 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.18022152476&dec=20.46110977535
+(278)277.14189959226,20.27013714097 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.14189959226&dec=20.27013714097
+(279)277.03378472267,20.893593263 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.03378472267&dec=20.893593263
+(280)276.98445270761,21.27118129216 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=276.98445270761&dec=21.27118129216
+(281)276.91190272916,20.6255235732 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=276.91190272916&dec=20.6255235732
+(282)276.79210321092,20.76757990319 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=276.79210321092&dec=20.76757990319
+(283)276.4803378763,21.47257779161 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=276.4803378763&dec=21.47257779161
+(284)276.48554575138,20.85881190717 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=276.48554575138&dec=20.85881190717
+(285)276.71796971544,21.41039581125 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=276.71796971544&dec=21.41039581125
+(286)276.55793845133,20.61624656479 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=276.55793845133&dec=20.61624656479
+(287)276.04446401472,21.14250383519 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=276.04446401472&dec=21.14250383519
+(288)276.18995091826,21.04228572686 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=276.18995091826&dec=21.04228572686
+(289)276.82999718821,22.29738719731 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=276.82999718821&dec=22.29738719731
+(290)276.76312402544,22.31212899485 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=276.76312402544&dec=22.31212899485
+(291)276.61160311155,22.20441359983 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=276.61160311155&dec=22.20441359983
+(292)277.09223552284,22.61058255958 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.09223552284&dec=22.61058255958
+(293)277.1580562427,22.58586862159 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.1580562427&dec=22.58586862159
+(294)276.49980293022,21.93356504142 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=276.49980293022&dec=21.93356504142
+(295)277.25326202544,22.78305276924 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.25326202544&dec=22.78305276924
+(296)277.36006172516,22.49060063247 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.36006172516&dec=22.49060063247
+(297)277.00512563742,21.99714791548 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.00512563742&dec=21.99714791548
+(298)277.00483558375,21.99704345823 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.00483558375&dec=21.99704345823
+(299)277.63536947917,22.03272329517 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.63536947917&dec=22.03272329517
+(301)277.59959977165,21.80169457638 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.59959977165&dec=21.80169457638
+(302)277.40836422305,21.58622546173 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.40836422305&dec=21.58622546173
+(304)278.07101169893,21.88611070985 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=278.07101169893&dec=21.88611070985
+(305)278.08136022605,21.75006659914 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=278.08136022605&dec=21.75006659914
+(306)278.20242852196,21.58828912498 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=278.20242852196&dec=21.58828912498
+(307)277.83502782023,22.26485627936 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.83502782023&dec=22.26485627936
+(308)277.6801144068,22.0675736701 : star 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.6801144068&dec=22.0675736701
+(309)277.96676001151,22.23609872025 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=277.96676001151&dec=22.23609872025
+(310)278.33619297742,21.80005373098 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=278.33619297742&dec=21.80005373098
+(311)278.45278443019,22.3001341127 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=278.45278443019&dec=22.3001341127
+(312)278.78219789206,21.50354194155 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=278.78219789206&dec=21.50354194155
+(313)278.77786694043,22.18253644088 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=278.77786694043&dec=22.18253644088
+(314)278.60394673432,22.24120991808 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=278.60394673432&dec=22.24120991808
+(315)278.60369401552,22.24101133595 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=278.60369401552&dec=22.24101133595
+(316)259.9125971749,-14.38924082406 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.9125971749&dec=-14.38924082406
+(317)259.93877136632,-14.32657775011 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.93877136632&dec=-14.32657775011
+(318)260.03080643052,-13.31388719218 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=260.03080643052&dec=-13.31388719218
+(319)260.08896533155,-13.34081548607 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=260.08896533155&dec=-13.34081548607
+(320)259.85099063637,-13.87353787594 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.85099063637&dec=-13.87353787594
+(321)259.76916652112,-14.00109200188 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.76916652112&dec=-14.00109200188
+(323)259.67162629741,-13.65766436176 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.67162629741&dec=-13.65766436176
+(324)259.55252989421,-13.316767707 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.55252989421&dec=-13.316767707
+(325)259.54762031121,-13.45145129553 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.54762031121&dec=-13.45145129553
+(326)259.29773188561,-13.40119563374 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.29773188561&dec=-13.40119563374
+(327)259.42614876411,-13.50503805224 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.42614876411&dec=-13.50503805224
+(328)259.65729833927,-14.43408313452 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.65729833927&dec=-14.43408313452
+(329)259.63971323327,-14.25522159566 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.63971323327&dec=-14.25522159566
+(330)259.52539839291,-14.27548695543 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.52539839291&dec=-14.27548695543
+(331)259.44456074415,-14.24973672874 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.44456074415&dec=-14.24973672874
+(332)259.25725743505,-13.38151156555 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.25725743505&dec=-13.38151156555
+(333)259.25580148795,-14.05333478157 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.25580148795&dec=-14.05333478157
+(334)259.4230235342,-13.91733702136 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=259.4230235342&dec=-13.91733702136
+(337)336.18127665336,68.60047064828 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=336.18127665336&dec=68.60047064828
+(338)336.26710232939,68.81053251929 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=336.26710232939&dec=68.81053251929
+(339)336.52443491771,68.56523526523 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=336.52443491771&dec=68.56523526523
+(340)336.5999673359,68.78428223077 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=336.5999673359&dec=68.78428223077
+(341)334.17941698345,67.97934561986 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=334.17941698345&dec=67.97934561986
+(342)335.47864247915,68.85997363946 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=335.47864247915&dec=68.85997363946
+(343)335.74236477048,69.01004605374 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=335.74236477048&dec=69.01004605374
+(344)335.96576669443,68.83572489394 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=335.96576669443&dec=68.83572489394
+(345)335.76132664791,68.9382301354 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=335.76132664791&dec=68.9382301354
+(346)333.86158290864,68.26401060926 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=333.86158290864&dec=68.26401060926
+(347)334.46768487999,68.55820167021 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=334.46768487999&dec=68.55820167021
+(348)334.41904214462,68.86849595408 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=334.41904214462&dec=68.86849595408
+(349)334.49908917824,68.78651929999 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=334.49908917824&dec=68.78651929999
+(350)334.21494517577,68.60010399288 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=334.21494517577&dec=68.60010399288
+(351)333.89042176416,68.68078583434 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=333.89042176416&dec=68.68078583434
+(352)333.61877268326,68.42469259832 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=333.61877268326&dec=68.42469259832
+(353)333.68780234013,68.48198260408 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=333.68780234013&dec=68.48198260408
+(354)333.0438094529,69.10338874902 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=333.0438094529&dec=69.10338874902
+(355)331.52395328758,68.91573443303 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=331.52395328758&dec=68.91573443303
+(356)331.96396793153,68.83438359052 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=331.96396793153&dec=68.83438359052
+(357)331.78240875303,68.45610587851 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=331.78240875303&dec=68.45610587851
+(358)331.27685404309,69.07651844572 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=331.27685404309&dec=69.07651844572
+(359)331.26393399137,69.16787152759 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=331.26393399137&dec=69.16787152759
+(360)331.40023859457,69.21939686936 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=331.40023859457&dec=69.21939686936
+(361)330.21153529115,69.75109068394 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=330.21153529115&dec=69.75109068394
+(362)330.67685135415,69.6757951463 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=330.67685135415&dec=69.6757951463
+(363)331.36079974032,69.70328633465 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=331.36079974032&dec=69.70328633465
+(364)330.73639374227,69.90582517955 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=330.73639374227&dec=69.90582517955
+(365)331.23889387383,69.33026872865 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=331.23889387383&dec=69.33026872865
+(366)330.92657283948,69.62569504807 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=330.92657283948&dec=69.62569504807
+(369)331.51771380479,69.53233439563 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=331.51771380479&dec=69.53233439563
+(370)334.1222857462,70.23262912105 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=334.1222857462&dec=70.23262912105
+(371)332.8578614668,69.5532452622 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=332.8578614668&dec=69.5532452622
+(372)332.96404429822,69.26747553768 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=332.96404429822&dec=69.26747553768
+(374)334.62150307557,70.17598082008 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=334.62150307557&dec=70.17598082008
+(375)333.47839156726,69.27622383671 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=333.47839156726&dec=69.27622383671
+(376)333.98406915615,69.5915869882 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=333.98406915615&dec=69.5915869882
+(377)334.61627633077,70.33246909696 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=334.61627633077&dec=70.33246909696
+(378)334.77987459512,69.53950710924 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=334.77987459512&dec=69.53950710924
+(379)334.55238751493,69.71685366776 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=334.55238751493&dec=69.71685366776
+(380)335.66733504586,70.64820474834 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=335.66733504586&dec=70.64820474834
+(381)336.62157377292,69.91884120821 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=336.62157377292&dec=69.91884120821
+(382)336.68369232274,69.71092610475 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=336.68369232274&dec=69.71092610475
+(383)335.88500700614,69.01995319698 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=335.88500700614&dec=69.01995319698
+(384)338.11515587707,68.99467192446 : star 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=338.11515587707&dec=68.99467192446
+(388)323.56630778861,72.24112720671 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=323.56630778861&dec=72.24112720671
+(392)128.48876493419,81.88032920476 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=128.48876493419&dec=81.88032920476
+(393)130.02309605541,83.27854492751 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=130.02309605541&dec=83.27854492751
+(394)126.68491630187,82.75713729985 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=126.68491630187&dec=82.75713729985
+(395)126.55616579695,83.16949325086 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=126.55616579695&dec=83.16949325086
+(396)128.77180985886,82.78538553278 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=128.77180985886&dec=82.78538553278
+(397)125.06196399911,82.99239017816 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=125.06196399911&dec=82.99239017816
+(398)124.67344743279,83.01158722465 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=124.67344743279&dec=83.01158722465
+(399)125.13046039189,82.91520149639 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=125.13046039189&dec=82.91520149639
+(400)126.13506531915,82.46016157375 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=126.13506531915&dec=82.46016157375
+(401)125.16616292383,82.62840644547 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=125.16616292383&dec=82.62840644547
+(402)118.0449440085,83.84043675318 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=118.0449440085&dec=83.84043675318
+(403)286.96072066008,38.19751562959 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=286.96072066008&dec=38.19751562959
+(404)117.46694998413,82.65480303602 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=117.46694998413&dec=82.65480303602
+(405)125.68413585932,84.49078988008 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=125.68413585932&dec=84.49078988008
+(406)249.2296533721,62.15626827509 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.2296533721&dec=62.15626827509
+(407)249.78841761534,62.03432916814 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.78841761534&dec=62.03432916814
+(408)249.97632817243,62.17946344371 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.97632817243&dec=62.17946344371
+(409)249.10801867199,62.190807723 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.10801867199&dec=62.190807723
+(410)249.18617120898,61.91990763527 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.18617120898&dec=61.91990763527
+(411)250.18881728238,62.71351649414 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=250.18881728238&dec=62.71351649414
+(412)249.83805741431,62.63360677464 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.83805741431&dec=62.63360677464
+(413)248.22539493873,61.85590138784 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=248.22539493873&dec=61.85590138784
+(414)249.16764756484,62.49829903272 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.16764756484&dec=62.49829903272
+(415)249.38129364158,62.78038689376 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.38129364158&dec=62.78038689376
+(416)249.55907867368,62.5924976435 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.55907867368&dec=62.5924976435
+(417)247.57011832423,62.1708574294 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=247.57011832423&dec=62.1708574294
+(418)247.81226318103,61.80332297375 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=247.81226318103&dec=61.80332297375
+(419)247.49022727221,61.68279783197 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=247.49022727221&dec=61.68279783197
+(420)248.59178636301,62.2226794978 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=248.59178636301&dec=62.2226794978
+(421)246.91225347282,61.76236010583 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=246.91225347282&dec=61.76236010583
+(422)246.90800155126,61.67734989762 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=246.90800155126&dec=61.67734989762
+(423)247.04284278445,61.96027587334 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=247.04284278445&dec=61.96027587334
+(424)247.35573839262,61.7275399347 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=247.35573839262&dec=61.7275399347
+(425)248.37966411641,62.4408490148 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=248.37966411641&dec=62.4408490148
+(426)247.93741055557,62.39201300196 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=247.93741055557&dec=62.39201300196
+(427)248.15496452026,62.37888226237 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=248.15496452026&dec=62.37888226237
+(428)247.42835847146,62.21766064556 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=247.42835847146&dec=62.21766064556
+(429)246.80116250517,62.34178725208 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=246.80116250517&dec=62.34178725208
+(430)246.70780940746,62.58399739545 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=246.70780940746&dec=62.58399739545
+(431)246.80912561989,61.5624777861  : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=246.80912561989&dec=61.5624777861
+(432)246.53555524494,62.17844344988 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=246.53555524494&dec=62.17844344988
+(433)245.45335575922,62.4319818436 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=245.45335575922&dec=62.4319818436
+(434)245.43444287263,62.4687181655 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=245.43444287263&dec=62.4687181655
+(435)245.93859410289,62.44394115768 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=245.93859410289&dec=62.44394115768
+(436)245.51334099863,61.68214902026 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=245.51334099863&dec=61.68214902026
+(437)246.18643109015,61.61744204947 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=246.18643109015&dec=61.61744204947
+(438)244.92307906661,62.52021104303 : star 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=244.92307906661&dec=62.52021104303
+(439)245.34611258927,62.26180444615 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=245.34611258927&dec=62.26180444615
+(440)245.38683313064,62.42640435327 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=245.38683313064&dec=62.42640435327
+(441)245.72488136614,61.58131896413 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=245.72488136614&dec=61.58131896413
+(442)244.85912079514,61.85220961114 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=244.85912079514&dec=61.85220961114
+(443)245.25229196266,61.71826086924 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=245.25229196266&dec=61.71826086924
+(444)244.86315786071,61.9279546159 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=244.86315786071&dec=61.9279546159
+(445)245.23812183159,61.76656347975 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=245.23812183159&dec=61.76656347975
+(446)244.94748500033,62.08360620686 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=244.94748500033&dec=62.08360620686
+(447)244.38284276815,62.54353940939 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=244.38284276815&dec=62.54353940939
+(448)244.50759393067,62.2381088296 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=244.50759393067&dec=62.2381088296
+(449)244.55016386549,62.4926594286 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=244.55016386549&dec=62.4926594286
+(450)244.1573048304,62.62344660033 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=244.1573048304&dec=62.62344660033
+(451)244.97086884684,63.41506723863 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=244.97086884684&dec=63.41506723863
+(452)244.92741838856,63.56195582322 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=244.92741838856&dec=63.56195582322
+(453)244.2189991647,63.04077934541 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=244.2189991647&dec=63.04077934541
+(454)245.59409929537,63.67376966608 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=245.59409929537&dec=63.67376966608
+(455)245.5998795351,63.74996002005 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=245.5998795351&dec=63.74996002005
+(456)244.95883277092,63.03671971389 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=244.95883277092&dec=63.03671971389
+(457)245.41166752377,62.9229079447 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=245.41166752377&dec=62.9229079447
+(459)246.76808185946,64.08479731221 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=246.76808185946&dec=64.08479731221
+(460)246.12547421583,63.39716879588 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=246.12547421583&dec=63.39716879588
+(461)246.01425969997,63.21573694932 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=246.01425969997&dec=63.21573694932
+(462)247.16073517972,64.05607423333 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=247.16073517972&dec=64.05607423333
+(464)247.44716621509,63.45632266831 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=247.44716621509&dec=63.45632266831
+(465)247.71683573983,63.56783003018 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=247.71683573983&dec=63.56783003018
+(466)247.23145419353,63.59796943772 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=247.23145419353&dec=63.59796943772
+(467)246.3993227734,63.01240705451 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=246.3993227734&dec=63.01240705451
+(468)246.61992679478,63.09223049195 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=246.61992679478&dec=63.09223049195
+(469)246.18678266725,62.99194358456 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=246.18678266725&dec=62.99194358456
+(470)246.14284530639,63.05911715919 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=246.14284530639&dec=63.05911715919
+(471)246.54703258052,62.95301760022 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=246.54703258052&dec=62.95301760022
+(472)247.15376046958,63.17818546601 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=247.15376046958&dec=63.17818546601
+(473)246.81058612671,62.99839405026 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=246.81058612671&dec=62.99839405026
+(474)247.40884429904,63.31988832647 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=247.40884429904&dec=63.31988832647
+(475)247.65883677298,63.15084399815 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=247.65883677298&dec=63.15084399815
+(476)247.52209410247,63.10241855228 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=247.52209410247&dec=63.10241855228
+(477)247.91462205432,63.50335728325 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=247.91462205432&dec=63.50335728325
+(478)248.79019900443,63.22510403675 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=248.79019900443&dec=63.22510403675
+(479)248.38912145059,63.01925932266 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=248.38912145059&dec=63.01925932266
+(480)249.11257967967,63.21088673822 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.11257967967&dec=63.21088673822
+(481)249.30616103049,63.35635380652 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.30616103049&dec=63.35635380652
+(482)249.23331263907,63.18470085999 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.23331263907&dec=63.18470085999
+(483)249.06646018664,63.20269367218 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.06646018664&dec=63.20269367218
+(484)250.10998753737,63.08349908922 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=250.10998753737&dec=63.08349908922
+(485)249.47538146497,63.26002839078 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.47538146497&dec=63.26002839078
+(486)249.58437186685,62.91057025628 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.58437186685&dec=62.91057025628
+(487)249.46329469637,62.97125077929 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=249.46329469637&dec=62.97125077929
+(488)312.88085185068,56.24235993725 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=312.88085185068&dec=56.24235993725
+(489)310.21140673137,57.31200803843 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=310.21140673137&dec=57.31200803843
+(492)262.07465134551,64.06688411114 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=262.07465134551&dec=64.06688411114
+(493)263.85514199335,64.86599600874 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=263.85514199335&dec=64.86599600874
+(494)291.35563887647,62.36356404803 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=291.35563887647&dec=62.36356404803
+(496)186.13476829537,-0.13495299888 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=186.13476829537&dec=-0.13495299888
+(498)336.54925128242,39.26297317371 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=336.54925128242&dec=39.26297317371
+(499)335.95706328577,38.84042556562 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=335.95706328577&dec=38.84042556562
+(500)336.41331980788,39.00960165946 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=336.41331980788&dec=39.00960165946
+(501)335.71395423768,40.25939065941 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=335.71395423768&dec=40.25939065941
+(502)335.60013596841,40.32557601772 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=335.60013596841&dec=40.32557601772
+(504)336.58121501318,40.12941265188 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=336.58121501318&dec=40.12941265188
+(505)342.50703232769,29.59578474234 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=342.50703232769&dec=29.59578474234
+(506)342.29217061739,30.10627817322 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=342.29217061739&dec=30.10627817322
+(507)355.55996179418,8.78759060446 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=355.55996179418&dec=8.78759060446
+(508)347.13809240992,20.86977822983 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=347.13809240992&dec=20.86977822983
+(509)347.75456952759,22.87580238571 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=347.75456952759&dec=22.87580238571
+(510)341.16999763981,30.75883007708 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=341.16999763981&dec=30.75883007708
+(513)56.5960390271,10.62791039743 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=56.5960390271&dec=10.62791039743
+(514)56.57798239713,10.97537778186 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=56.57798239713&dec=10.97537778186
+(515)56.58765207947,10.77673407646 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=56.58765207947&dec=10.77673407646
+(516)57.6468562896,11.24723096951 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=57.6468562896&dec=11.24723096951
+(517)64.04959104918,15.11080376484 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=64.04959104918&dec=15.11080376484
+(518)63.30521317949,15.48263529869 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=63.30521317949&dec=15.48263529869
+(519)71.55650915497,21.09285725044 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=71.55650915497&dec=21.09285725044
+(520)71.01045752972,21.8961272241 : star 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=71.01045752972&dec=21.8961272241
+(521)100.38598881288,37.05937881372 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=100.38598881288&dec=37.05937881372
+(522)112.37556483169,41.13420064136 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=112.37556483169&dec=41.13420064136
+(523)113.26146717057,41.06358313598 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=113.26146717057&dec=41.06358313598
+(524)190.5926903479,-7.90423392927 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=190.5926903479&dec=-7.90423392927
+(526)56.97853287526,10.53079463968 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=56.97853287526&dec=10.53079463968
+(527)71.67183567247,23.01698212608 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=71.67183567247&dec=23.01698212608
+(530)117.49635306487,18.43408623607 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=117.49635306487&dec=18.43408623607
+(536)229.70552178706,6.9624973454 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=229.70552178706&dec=6.9624973454
+(538)65.9679672811,6.44633999232 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=65.9679672811&dec=6.44633999232
+(539)64.98131289907,6.29750150001 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=64.98131289907&dec=6.29750150001
+(543)26.23679685822,-10.2162041987 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=26.23679685822&dec=-10.2162041987
+(544)26.17297775801,-10.31134269383 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=26.17297775801&dec=-10.31134269383
+(545)26.37665149959,-9.79001286178 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=26.37665149959&dec=-9.79001286178
+(546)25.57356003862,-10.5554730787 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.57356003862&dec=-10.5554730787
+(547)25.4693216815,-10.26857640061 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.4693216815&dec=-10.26857640061
+(548)25.45862681924,-9.77421261559 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.45862681924&dec=-9.77421261559
+(549)25.12233059593,-10.66170735279 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.12233059593&dec=-10.66170735279
+(550)24.58270502808,-10.44762730931 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.58270502808&dec=-10.44762730931
+(551)24.07728096687,-10.09759940936 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.07728096687&dec=-10.09759940936
+(552)25.50526632685,-9.30019457634 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.50526632685&dec=-9.30019457634
+(553)25.61881640762,-8.18164866514 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.61881640762&dec=-8.18164866514
+(554)252.97378661605,11.84907081748 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=252.97378661605&dec=11.84907081748
+(555)262.59876963997,6.99636625056 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=262.59876963997&dec=6.99636625056
+(558)261.92178644469,44.09439717853 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=261.92178644469&dec=44.09439717853
+(567)17.99706318786,15.02439787647 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=17.99706318786&dec=15.02439787647
+(569)128.13144421659,-4.13527002119 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=128.13144421659&dec=-4.13527002119
+(570)256.01426551721,28.4484513914 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=256.01426551721&dec=28.4484513914
+(571)255.79938850007,28.48630379605 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=255.79938850007&dec=28.48630379605
+(572)255.95552786791,28.42555298952 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=255.95552786791&dec=28.42555298952
+(573)18.69520364804,-10.19475400982 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=18.69520364804&dec=-10.19475400982
+(574)18.78410903595,-9.86446975776 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=18.78410903595&dec=-9.86446975776
+(575)18.51036543299,-10.18926619613 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=18.51036543299&dec=-10.18926619613
+(576)29.50398927539,0.22002010346 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=29.50398927539&dec=0.22002010346
+(577)30.09581444094,0.82960971604 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=30.09581444094&dec=0.82960971604
+(578)29.7335293829,0.18010086852 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=29.7335293829&dec=0.18010086852
+(579)169.90868760588,-12.11353883049 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=169.90868760588&dec=-12.11353883049
+(580)169.08934349731,-10.92407300914 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=169.08934349731&dec=-10.92407300914
+(581)172.29180632893,-7.74252534463 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=172.29180632893&dec=-7.74252534463
+(582)171.46005080254,-7.6712943615 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=171.46005080254&dec=-7.6712943615
+(583)25.77966482222,-10.25662519967 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.77966482222&dec=-10.25662519967
+(584)24.54317953609,-10.18862121081 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=24.54317953609&dec=-10.18862121081
+(585)25.12154733394,-9.06668936887 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=25.12154733394&dec=-9.06668936887
+(587)155.83483925127,18.87046823651 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=155.83483925127&dec=18.87046823651
+(588)156.57000530901,8.21633731116 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=156.57000530901&dec=8.21633731116
+(589)170.09617931563,18.53845919072 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=170.09617931563&dec=18.53845919072
+(590)169.38411395779,19.19626292637 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=169.38411395779&dec=19.19626292637
+(591)169.15359232571,18.94960011417 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=169.15359232571&dec=18.94960011417
+(592)168.15413718165,19.24863534961 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=168.15413718165&dec=19.24863534961
+(593)168.24429184959,19.2314389762 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=168.24429184959&dec=19.2314389762
+(594)168.17701102617,18.79261676605 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=168.17701102617&dec=18.79261676605
+(595)168.19582249016,18.15177819722 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=168.19582249016&dec=18.15177819722
+(596)168.10473035109,18.17406761025 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=168.10473035109&dec=18.17406761025
+(597)167.66968637454,18.77287179419 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=167.66968637454&dec=18.77287179419
+(598)167.65887541527,18.80308664023 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=167.65887541527&dec=18.80308664023
+(599)167.83333723242,18.98602759541 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=167.83333723242&dec=18.98602759541
+(600)168.52466293944,20.18671442507 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=168.52466293944&dec=20.18671442507
+(601)167.95563061769,19.38085173459 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=167.95563061769&dec=19.38085173459
+(602)167.83625060691,19.8733297234 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=167.83625060691&dec=19.8733297234
+(603)168.90717286001,20.13621301082 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=168.90717286001&dec=20.13621301082
+(604)168.15034196129,19.80325873769 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=168.15034196129&dec=19.80325873769
+(605)169.06923381508,19.91484419899 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=169.06923381508&dec=19.91484419899
+(606)169.80590781116,20.23404331115 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=169.80590781116&dec=20.23404331115
+(607)169.81369030803,20.50492808876 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=169.81369030803&dec=20.50492808876
+(608)169.72765821545,20.09759244646 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=169.72765821545&dec=20.09759244646
+(609)170.08535268821,19.47487221288 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=170.08535268821&dec=19.47487221288
+(610)170.25012110504,19.97821770911 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=170.25012110504&dec=19.97821770911
+(611)171.77342009378,67.52214063272 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=171.77342009378&dec=67.52214063272
+(615)92.09928937017,22.75073862097 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=92.09928937017&dec=22.75073862097
+(616)91.04431907164,23.08964263838 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=91.04431907164&dec=23.08964263838
+(617)118.66240496298,22.0817222711 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=118.66240496298&dec=22.0817222711
+(618)118.32663418286,22.34717484718 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=118.32663418286&dec=22.34717484718
+(619)206.83899611818,27.12613789463 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=206.83899611818&dec=27.12613789463
+(620)207.18881364714,19.51922387436 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=207.18881364714&dec=19.51922387436
+(621)218.3281356498,7.67424581831 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=218.3281356498&dec=7.67424581831
+(622)91.58711883734,24.24342981795 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=91.58711883734&dec=24.24342981795
+(625)192.54298327345,49.53314092945 : star 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=192.54298327345&dec=49.53314092945
+(628)207.59876756603,27.64992769628 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=207.59876756603&dec=27.64992769628
+(629)206.4082314045,27.7472615264 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=206.4082314045&dec=27.7472615264
+(631)213.47786375091,36.12021179114 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=213.47786375091&dec=36.12021179114
+(633)217.23016212947,44.32517228988 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=217.23016212947&dec=44.32517228988
+(635)217.61044584942,9.43395536725 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=217.61044584942&dec=9.43395536725
+(636)230.83556016753,40.11018808769 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=230.83556016753&dec=40.11018808769
+(637)231.61734857552,39.58886371868 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=231.61734857552&dec=39.58886371868
+(638)231.70573868183,39.55180762677 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=231.70573868183&dec=39.55180762677
+(640)116.85481631807,65.21698841098 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=116.85481631807&dec=65.21698841098
+(641)115.10084573504,66.56042512015 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=115.10084573504&dec=66.56042512015
+(643)71.46478378489,-4.2488607143 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=71.46478378489&dec=-4.2488607143
+(644)71.61942927414,-4.69045483913 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=71.61942927414&dec=-4.69045483913
+(648)119.43517531591,9.03934310828 : star
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=119.43517531591&dec=9.03934310828

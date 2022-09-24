@@ -1,0 +1,52 @@
+353.9455879973,45.43883947099 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=353.9455879973&dec=45.43883947099
+353.94498478316,45.43898536584 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=353.94498478316&dec=45.43898536584
+312.3599324704,-7.09385581658 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=312.3599324704&dec=-7.09385581658
+323.36482606655,-0.15816244712 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=323.36482606655&dec=-0.15816244712
+255.99067743051,40.2501290157 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=255.99067743051&dec=40.2501290157
+266.16329996986,24.71628590228 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=266.16329996986&dec=24.71628590228
+308.47007862717,15.63497370898 : binaria ? 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=308.47007862717&dec=15.63497370898
+264.38156746779,32.62533816487 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=264.38156746779&dec=32.62533816487
+262.27125480098,32.38801356609 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=262.27125480098&dec=32.38801356609
+344.17278353656,6.69716178438 : binaria ? 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.17278353656&dec=6.69716178438
+344.56964569866,7.64593250612 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=344.56964569866&dec=7.64593250612
+132.41905233689,6.91868665376 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=132.41905233689&dec=6.91868665376
+140.38171595319,30.34375739857 : binaria ? 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=140.38171595319&dec=30.34375739857
+48.54437769564,40.49110115894 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=48.54437769564&dec=40.49110115894
+238.53573247425,27.71557435838 : binaria ?
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=238.53573247425&dec=27.71557435838
+113.48931244917,16.69593726822 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=113.48931244917&dec=16.69593726822
+118.63149600215,17.27857999275 : binaria ? 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=118.63149600215&dec=17.27857999275
+118.17508895956,17.29647427943 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=118.17508895956&dec=17.29647427943
+118.58817312932,18.97578040303 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=118.58817312932&dec=18.97578040303
+229.8479535548,7.56769663604 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=229.8479535548&dec=7.56769663604
+128.38716933691,-3.70213620453 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=128.38716933691&dec=-3.70213620453
+261.13933114502,8.08422938705 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=261.13933114502&dec=8.08422938705
+289.98705763322,38.48344332887 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=289.98705763322&dec=38.48344332887
+1.76479476501,28.7619954299 : binaria
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=1.76479476501&dec=28.7619954299
+91.66494535604,23.10601473036 : binaria ? 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=91.66494535604&dec=23.10601473036
+211.86725874615,36.70060830359 : binaria ? 
+http://skyserver.sdss.org/dr16/en/tools/explore/Summary.aspx?ra=211.86725874615&dec=36.70060830359
